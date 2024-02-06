@@ -1,1 +1,1 @@
-# lesson-spring-security
+# lesson-lakeside-hotel
